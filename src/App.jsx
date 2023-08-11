@@ -20,6 +20,7 @@ function App() {
 
   return (
     <div className="app">
+      <BookList books={books} onDelete={deleteBookById} />
       <BookCreate onCreate={createBook} />
     </div>
   );
