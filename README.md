@@ -1,7 +1,7 @@
 # Reading List - React app
 Simple reading list app where you can add, update and delete books in your reading list.
 
-This project was created using HTML, CSS, Javascript, React, Axios, JSON Server and Netlify.
+This project was created using HTML, CSS, Javascript, React, Axios and JSON Server.
 
 # Usage
 
